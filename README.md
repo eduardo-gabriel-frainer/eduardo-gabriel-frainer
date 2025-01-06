@@ -9,7 +9,7 @@
 ##
 
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardo-gabriel-frainer&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-gabriel-frainer&layout=donut&theme=radical" alt="Top Langs" />
 </div>
 
