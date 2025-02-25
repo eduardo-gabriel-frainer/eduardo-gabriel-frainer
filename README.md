@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Eduardo Gabriel Frainer👋
 
 - 💻 Sou Técnico em Desenvolvimento de Sistemas
-- 💻 Estou Cursando Superior em Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estou aprendendo Java, Css, Html, Js, Arduino, MySql, GitHub
+- 💻 Estou Cursando Superior em Análise e Desenvolvimento de Sistemas (1/5)
+- 🌱 Atualmente estou aprendendo Java, Spring boot, Css, Html, Js, Arduino, MySql, Git e Bootstrap
 - ⚡ Curioso e sempre em evolução
 - 📫 Contate-me no email: eduardogfrainer@gmail.com
 
