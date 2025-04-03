@@ -2,6 +2,7 @@
 
 - 💻 Sou Técnico em Desenvolvimento de Sistemas
 - 💻 Estou Cursando Superior em Análise e Desenvolvimento de Sistemas (1/5)
+- 🍀 Desenvovedor na Ambisis Blumenau.
 - 🌱 Atualmente estou aprendendo Java, Spring boot, Css, Html, Js, Arduino, MySql, Git, Bootstrap, Typescritp, Next e Express
 - ⚡ Curioso e sempre em evolução
 - 📫 Contate-me no email: eduardogfrainer@gmail.com
